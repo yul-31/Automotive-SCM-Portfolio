@@ -34,8 +34,8 @@ procurement, supply chain planning, and data-driven SCM.
 ## 4. Tools & Learning
 
 - Excel
-- Python
-- SQL
+- Python (Learning)
+- SQL (Learning)
 - Supply Chain Management
 - Business Analysis
 
